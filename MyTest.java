@@ -30,7 +30,7 @@ import org.eclipse.jdt.internal.compiler.util.Util;
  * @noinstantiate This class is not intended to be instantiated by clients.
  */
 @SuppressWarnings("rawtypes")
-public class CharacterLiteral extends Expression {
+public class MyTest extends Expression {
 
 	/**
 	 * The "escapedValue" structural property of this node type (type: {@link String}).
